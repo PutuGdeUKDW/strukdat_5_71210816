@@ -1,6 +1,3 @@
-from tkinter.messagebox import NO
-
-
 class Mobil:
     _merk = None
     _tipe = None
